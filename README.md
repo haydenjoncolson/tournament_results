@@ -5,7 +5,7 @@
 
 ## how to install
 
-1. Clone or download this repo
+1. Clone or download this repo https://github.com/haydenjoncolson/tournament_results
 2. Open /vagrant directory in shell
 3. Run 'vagrant up', then 'vagrant ssh'
 4. Open tournament.sql with PostgreSQL 'psql -f tournament.sql'
